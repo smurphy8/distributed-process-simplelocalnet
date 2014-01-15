@@ -1,5 +1,5 @@
 Name:          distributed-process-simplelocalnet
-Version:       0.2.0.9
+Version:       0.2.0.10
 Cabal-Version: >=1.8
 Build-Type:    Simple
 License:       BSD3 
@@ -32,7 +32,7 @@ Library
                      network >= 2.3 && < 2.5,
                      network-multicast >= 0.0 && < 0.1,
                      data-accessor >= 0.2 && < 0.3,
-                     binary >= 0.5 && < 0.7,
+                     binary >= 0.6 && < 0.8,
                      containers >= 0.4 && < 0.6,
                      transformers >= 0.2 && < 0.4,
                      network-transport >= 0.3 && < 0.4,
